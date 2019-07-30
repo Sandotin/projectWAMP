@@ -5,3 +5,4 @@ pandas
 PILLOW
 tensorflow >= 1.14.*
 keras
+opencv-python
